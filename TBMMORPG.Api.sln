@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TBMMORPG.Api", "TBMMORPG.Api\TBMMORPG.Api.csproj", "{449FDB70-C59B-4AF5-82D6-6F0412FEA197}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TBMMORPG.Infrastructure", "TBMMORPG.Infrastructure\TBMMORPG.Infrastructure.csproj", "{ED58096B-5344-4808-9A89-97C970961C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TBMMORPG.Auth", "TBMMORPG.Auth\TBMMORPG.Auth.csproj", "{426C6D26-A8D3-45B5-BFA0-14A2627E1EBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449FDB70-C59B-4AF5-82D6-6F0412FEA197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449FDB70-C59B-4AF5-82D6-6F0412FEA197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449FDB70-C59B-4AF5-82D6-6F0412FEA197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449FDB70-C59B-4AF5-82D6-6F0412FEA197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED58096B-5344-4808-9A89-97C970961C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED58096B-5344-4808-9A89-97C970961C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED58096B-5344-4808-9A89-97C970961C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED58096B-5344-4808-9A89-97C970961C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426C6D26-A8D3-45B5-BFA0-14A2627E1EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426C6D26-A8D3-45B5-BFA0-14A2627E1EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426C6D26-A8D3-45B5-BFA0-14A2627E1EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426C6D26-A8D3-45B5-BFA0-14A2627E1EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88FBA7C5-2364-44E3-B13D-730A4690B370}
+	EndGlobalSection
+EndGlobal
